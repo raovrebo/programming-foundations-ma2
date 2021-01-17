@@ -43,7 +43,7 @@ logBoolean("false");
 
 // Question 3
 
-var subheading = document.querySelector("h2")
+var subheading = document.querySelector("h2");
 var button = document.querySelector("button");
 
 button.onclick = function() {
